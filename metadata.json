@@ -1,0 +1,6 @@
+{
+  "name": "Atérmicos Pilar",
+  "description": "Sitio web de ventas moderno y minimalista para Atérmicos Pilar, con catálogo de productos, calculadora de bordes y solariums, cotizaciones en tiempo real, contacto directo por WhatsApp y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
